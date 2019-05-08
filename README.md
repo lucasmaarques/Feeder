@@ -8,11 +8,14 @@ Arthur Segura Ortiz Novello - 14.03329-0
 Luca Ezellner Miraglia - 16.01977-6
 
 ### Descrição do projeto
- Automação de um feeder de animais com sensores responsáveis pela análise e reposição automática de água e ração.
+ Automação de um feeder de animais com sensores responsáveis pela análise e reposição automática de água.
  
 ### Módulos Utilizados
-  - Sensor de nível de água;
+  - MBED
+  - Sensor de umidade;
   - Sensor LDR;
   - Bomba d'água;
-  - Motor;
   - Bluetooth;
+  - RTC
+  - Sensor de presença;
+  - LED;
