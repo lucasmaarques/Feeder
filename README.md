@@ -24,7 +24,7 @@
 
 ### Funcionamento
 
- O *Sensor de Umidade* controla o nivel da água e aciona a *Bomba* de acordo com a necessidade. Um *Sensor de Presença* controla o acendimento dos *LEDs* caso o *Sensor LDR* não capte luminosidade no ambiente. Por fim o **FEEDER** envia notificações sempre que um celular for conectado pelo *Bluetooth* com informações de acionamento da *Bomba* ou dos *LEDs*.
+ O *Sensor de Umidade* controla o nivel da água e aciona a *Bomba* de acordo com a necessidade. Um *Sensor de Presença* controla o acendimento dos *LEDs* caso o *Sensor LDR* não capte luminosidade no ambiente. Por fim o **FEEDER** envia notificações sempre que um celular for conectado pelo *Bluetooth* com informações de acionamento da *Bomba* ou dos *LEDs*, além do envio, o programa gera um arquivo de log, que fica armazenado no microcontrolador.
 
 ### Imagens
 
